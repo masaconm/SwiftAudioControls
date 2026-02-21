@@ -9,7 +9,7 @@ A sample project demonstrating how to build custom audio-style UI components in 
 
 ## Screenshot
 
-<img src="screenshots/demo.png" width="300">
+<img src="screenshots/demo.png" width="280"> <img src="screenshots/demo_mute.png" width="280">
 
 ## Features
 
