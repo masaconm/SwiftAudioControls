@@ -7,6 +7,10 @@
 
 A sample project demonstrating how to build custom audio-style UI components in SwiftUI — a rotary **knob**, a vertical **slider**, and action **buttons** — all sharing the same value through data binding.
 
+## Screenshot
+
+<img src="screenshots/demo.png" width="300">
+
 ## Features
 
 - **Custom Rotary Knob** — drag-to-rotate with polar coordinate conversion, smoothing, and glow arc effect
@@ -61,8 +65,6 @@ MIT
 
 SwiftUI でオーディオアプリ風の UI パーツ（ノブ・スライダー・ボタン）を作るサンプルプロジェクトです。
 3 つの UI が同じ値を `@Binding` と ViewModel で共有・連携します。
-
-オーディオアプリ開発で使用した UI パーツを汎用サンプルとして切り出したものです。
 
 ## 主な特徴
 
